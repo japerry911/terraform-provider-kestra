@@ -1,4 +1,4 @@
-module github.com/kestra-io/terraform-provider-kestra
+module github.com/japerry911/terraform-provider-kestra
 
 go 1.20
 
